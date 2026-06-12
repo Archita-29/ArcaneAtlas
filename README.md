@@ -1,8 +1,5 @@
 # 🌍 ArcaneAtlas
 
-ArcaneAtlas is a smart tourism and exploration web application that helps users
-make safer and more informed travel decisions using real-time data.It is mainly designed for the youths interested in exploring the unexplored and adventurous parts of India which is also helpful for Indian tourism. 
-
 ## 🚀 Features
 - Guest & authenticated user mode
 - Real-time weather information
